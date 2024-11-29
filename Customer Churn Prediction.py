@@ -182,5 +182,3 @@ plt.ylabel('True Positive Rate')
 plt.title('ROC Curve')
 plt.legend(loc='lower right')
 plt.show()
-   - Kurva ROC menunjukkan skor Area Under the Curve (AUC) sebesar 0,45, yang mendekati prediksi acak. Skor AUC yang rendah ini menunjukkan bahwa model regresi logistik kurang berkinerja baik dalam memprediksi churn.
-"""
