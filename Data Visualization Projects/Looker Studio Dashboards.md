@@ -13,3 +13,6 @@ This repository features interactive dashboards created with Looker Studio. Each
    - Focuses on [topic/goal of the dataset].  
    - Key insights: [Brief description of trends or findings].  
    - Tools/Features: [e.g., comparative analysis, segmentation]. 
+
+<img width="1224" alt="Screenshot 2024-12-02 at 05 50 11" src="https://github.com/user-attachments/assets/1acbe869-e8d9-43a8-a664-4447397183f4">
+<img width="1226" alt="Screenshot 2024-12-02 at 05 50 50" src="https://github.com/user-attachments/assets/ed10c15a-b055-49eb-b793-6ee8d067921a">
