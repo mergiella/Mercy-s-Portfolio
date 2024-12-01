@@ -1,6 +1,4 @@
-# Mercy's Data Playground
-
-# Welcome to Mercy's Portfolio! 🎉
+# Welcome to Mercy's Data Playground! 🎢 🎉
 
 Hi there! 👋 I'm thrilled to have you here. This portfolio is a showcase of my journey as a **Data Enthusiast**, where I combine creativity, analytical skills, and a passion for solving complex problems. 
 
