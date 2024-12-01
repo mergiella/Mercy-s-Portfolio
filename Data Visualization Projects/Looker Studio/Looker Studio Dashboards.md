@@ -1,4 +1,4 @@
-# Data Visualization Projects
+# Looker Studio Dashboards
 
 A showcase of Looker Studio dashboards designed to uncover insights from diverse datasets through clear and interactive visuals.
 
